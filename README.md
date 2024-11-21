@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @raviteja8k
-- 👀 I’m interested in fullstack web development
-- 🌱 I’m currently learning Devops 
-- 💞️ I’m looking to collaborate on frontend UI
-- 📫 How to reach me raviteja.tk@gmail.com or https://www.linkedin.com/in/raviteja-tk
-
-<!---
-raviteja8k/raviteja8k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 👋 Hi, I’m Raviteja!  
+- 🌟 **Interests:** Fullstack web development and modern UI/UX design.  
+- 📚 **Currently Learning:** DevOps practices and tools to streamline workflows.  
+- 🤝 **Open to Collaborate:** On frontend projects, UI/UX, and responsive design.  
+- 📬 **Reach Me:** [Email](mailto:raviteja.tk@gmail.com) | [LinkedIn](https://www.linkedin.com/in/raviteja-tk)  
